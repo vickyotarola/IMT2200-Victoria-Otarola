@@ -4,7 +4,6 @@
 <h1 align="center">IMT2200 · Ciencia de Datos</h1>
 <p align="center"><em>Victoria Otarola — Segundo Semestre 2025</em></p>
 
-<p align="center">“Less, but better.” – <i>Dieter Rams</i></p>
 
 ---
 
@@ -44,4 +43,4 @@ import matplotlib.pyplot as plt
   <img src="./Actividad 01/PoblacionRM_C2017_Victoria_Otarola.jpg" width="500"/>
 </p>
 
-### Estructura de este repositorio
+
