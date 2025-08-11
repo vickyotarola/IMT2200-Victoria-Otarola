@@ -40,7 +40,7 @@ import matplotlib.pyplot as plt
 
 ### Mapa
 <p align="center">
-  <img src="./Actividad 01/PoblacionRM_C2017_Victoria_Otarola.jpg" width="500"/>
+  <img src="Actividad 01/PoblacionRM_C2017_Victoria_Otarola.jpg" width="500"/>
 </p>
 
 
